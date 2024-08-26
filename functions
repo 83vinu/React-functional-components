@@ -18,6 +18,7 @@ function App() {
 export default App;
 
 then create a new file:Header.js
+
 import React from "react"
 
 const Header = () => {
@@ -33,6 +34,7 @@ export default Header
 
 
 then again creat a new file: Content.js
+
 import React from 'react'
 
 const Content = () => {
@@ -51,6 +53,7 @@ const Content = () => {
 export default Content
 
 then again creat a new file Footer.js:
+
 import React from 'react'
 
 const Footer = () => {
